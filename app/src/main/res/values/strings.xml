@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidNotes</string>
+    <string name="infoicon">infoIcon</string>
+    <string name="addicon">addIcon</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="saveitem">saveItem</string>
+    <string name="file_name">notes.json</string>
+    <string name="no_file">No File Found</string>
+    <string name="saved">Saved note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">date</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="_2023_allemustafa">2023@AlleMustafa</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="NoWihoutTitleMessage">Note can not be saved without a title, Do you wish to continue?</string>
+    <string name="Description">description</string>
+    <string name="Title">title</string>
+    <string name="SaveCurrentNote">Do you want to save the current note?:</string>
+    <string name="AndroidNotes">Android Notes</string>
+    <string name="noteNotSaved">Note not saved!</string>
+</resources>
